@@ -1,6 +1,6 @@
 if __name__ == '__main__':
 
-     # # suma i dodatok chysel
+    #  # suma i dodatok chysel
     #
     # x = int(input("x: "))
     # y = int(input("y: "))
@@ -10,8 +10,8 @@ if __name__ == '__main__':
     # print("Добуток чисел:", x * y * z)
 
 
-    # # zalyshok zarplaty
-    #
+    # zalyshok zarplaty
+
     # zarplata = int(input("Введіть зарплату за місяць : "))
     # kredyt = int(input("Введіть кредит : "))
     # komunalka = int(input("Введіть комунальні послуги : "))
